@@ -1,1 +1,1 @@
-var welcome_page_messages = [  { "date" : "29/01/2019",    "message" : "Bonjour, en cas de problème de dépôt de fichier, essayez un autre navigateur, nous allons déployer un correctif jeudi 31/01. Veuillez nous excuser pour la gêne occasoionnée."}]   
+var welcome_page_messages = [  { "date" : "31/01/2019",    "message" : "Une opération est en cours ce jour. Le service peut être perturbé. Veuillez nous excuser pour la gêne occasoionnée."}]   
