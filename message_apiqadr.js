@@ -1,1 +1,1 @@
-var welcome_page_messages = [  { "date" : "31/01/2019",    "message" : "Une opération est en cours le 31/01 et le 01/02 . Le service peut être perturbé penant ces 2 jours. Veuillez nous excuser pour la gêne occasoionnée."}]   
+var welcome_page_messages = [ ]   
